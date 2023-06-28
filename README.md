@@ -61,6 +61,8 @@ If the components do not fit properly into the slots, it can be moved into the s
 
 #### ASSEMBLED VIEW
 ![image](https://user-images.githubusercontent.com/113594316/199413636-df0a61ce-964f-490d-9a16-e5986ebbf403.png)
+## OUTPUT:
+![6 1 1](https://github.com/Jerushli/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/120041243/5b1c3782-9cfe-4dda-96a9-0e240e4778e3)
 
 
 ## RESULT:
